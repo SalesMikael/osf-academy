@@ -1,0 +1,12 @@
+fieldset
+{
+  width:300px;
+  height:250px;
+}
+
+.classColorRed{color:aliceblue}
+.classColorBlue{color:aliceblue}
+.classColorWhite{color:aliceblue}
+.classColorBlack{color:aliceblue}
+
+.separator {border-top: 1px solid #8c8b8b}
